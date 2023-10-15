@@ -2,7 +2,9 @@
 To remove noncurrent version from aws s3
 
 # setup instruction
+```
 - npm i
+```
 
 # prepare aws profile under ~/.aws folder
 
